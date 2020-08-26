@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "uno": "git@github.com:eugene-karanda/uno.git"
+  }
 }
